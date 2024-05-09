@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT**
 
-- 📫 How to reach me **johridhruv24@gmail.com**
+- 📫 How to reach me 
 
-- ⚡ Fun fact **https://auth.geeksforgeeks.org/user/dhruvjohri24**
+- ⚡ Fun fact 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
