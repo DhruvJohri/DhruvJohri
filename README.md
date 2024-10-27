@@ -29,6 +29,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 
 </div>
+[![An image of @dhruvjohri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvjohri)](https://holopin.io/@dhruvjohri)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
