@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/DhruvJohri?style=for-the-badge&color=blueviolet" alt="GitHub followers" />
 </p>
 <div align="center">
-  <img src=https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DhruvJohri?&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
