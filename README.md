@@ -12,9 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
-
- <div align="center">
+  
   <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
 </div>
 
