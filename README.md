@@ -83,11 +83,20 @@ I am a FullStack Devloper
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="100%">
 
-**Meta logo Introduction to Front-End Development Introduction to Front-End Development **  
-*Meta* | 25/06/2025 | ID: https://www.coursera.org/account/accomplishments/verify/DDEUQ10P2X3U
+### 🎓 **Meta - Introduction to Front-End Development**
+**Issued by:** Meta via Coursera  
+**Date:** June 25, 2025  
+**Credential ID:** [DDEUQ10P2X3U](https://www.coursera.org/account/accomplishments/verify/DDEUQ10P2X3U)
 
-</div>
+![Meta](https://img.shields.io/badge/-Meta_Certified-blueviolet?style=for-the-badge&logo=meta&logoColor=white)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
