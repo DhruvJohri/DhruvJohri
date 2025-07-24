@@ -14,12 +14,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvJohri/DhruvJohri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvJohri/DhruvJohri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DhruvJohri/DhruvJohri/output/github-contribution-grid-snake.svg">
-  </picture>
+ <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
 </div>
+
 
 
 
