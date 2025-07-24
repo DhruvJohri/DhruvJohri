@@ -1,62 +1,150 @@
-<h1 align="center">Hi 👋, I'm DHRUV JOHRI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjohri&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjohri" /> </p>
+# 🌟 Dhruv Johri 🌟
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvjohri" alt="dhruvjohri" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=SDE%20Intern;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/dhruvjohri_" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvjohri_?logo=twitter&style=for-the-badge" alt="dhruvjohri_" /></a> </p>
+## 🚀 I am a FullStack Devloper | Project Admin@GSSoC'25
 
-- 🔭 I’m currently working on **Netflix Clone**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhruvJohri&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DhruvJohri?style=for-the-badge&color=blueviolet" alt="GitHub followers" />
+</p>
 
-- 🌱 I’m currently learning **DSA,Fullstack Development,competitive coding**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DhruvJohri](https://github.com/DhruvJohri)
-
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT**
-
-- 📫 How to reach me 
-
-- ⚡ Fun fact
-- 
-- ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10 px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dhruvjohri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhruvjohri" height="30" width="40" /></a>
-<a href="https://twitter.com/dhruvjohri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvjohri_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dhruv-johri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhruv-johri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21382785/dhruv-johri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21382785/dhruv-johri" height="30" width="40" /></a>
-<a href="https://medium.com/@johridhruv24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@johridhruv24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/dhruv_johri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dhruv_johri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/johridhruv24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/johridhruv24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dhruv_johri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruv_johri/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@johridhruv24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@johridhruv24" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dhruvjohri24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dhruvjohri24" height="30" width="40" /></a>
-<a href="/https://zapier.com/app/dashboard?from=https%3a//zapier.com/blog/how-to-find-rss-feed-url/&context=17653862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zapier.com/app/dashboard?from=https%3a//zapier.com/blog/how-to-find-rss-feed-url/&context=17653862" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🌈 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvjohri&show_icons=true&locale=en&layout=compact" alt="dhruvjohri" /></p>
+```yaml
+name: "Dhruv Johri"
+located_in: "India"
+current_job: "SDE Intern"
+education: ["Computer Science", "Continuous Learning"]
+hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjohri&show_icons=true&locale=en" alt="dhruvjohri" /></p>
+I am a FullStack Devloper
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjohri&" alt="dhruvjohri" /></p>
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+
+#### Expert
+![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-blueviolet?style=for-the-badge&logo=mongodb&logoColor=white) ![ExpressJs](https://img.shields.io/badge/-ExpressJs-blueviolet?style=for-the-badge&logo=expressjs&logoColor=white) ![ReactJs](https://img.shields.io/badge/-ReactJs-blueviolet?style=for-the-badge&logo=reactjs&logoColor=white) ![NodeJs](https://img.shields.io/badge/-NodeJs-blueviolet?style=for-the-badge&logo=nodejs&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blueviolet?style=for-the-badge&logo=c++&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white) 
+#### Intermediate
+![Java](https://img.shields.io/badge/-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white) ![Cloud](https://img.shields.io/badge/-Cloud-blueviolet?style=for-the-badge&logo=cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blueviolet?style=for-the-badge&logo=aws&logoColor=white) ![DevOps](https://img.shields.io/badge/-DevOps-blueviolet?style=for-the-badge&logo=devops&logoColor=white) 
+#### Advanced
+![AI/ML](https://img.shields.io/badge/-AI/ML-blueviolet?style=for-the-badge&logo=ai/ml&logoColor=white) 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+### 1. SDE Intern @ Crucial Bits
+**Duration:** 01/07/2025-Present
 
 
+
+
+### 2.  Contributor  @ Hacktoberfest · Internship
+**Duration:** 01/10/2024-01/11/2024
+
+
+
+
+### 3.  Contributor  @  GirlScript Summer of Code · Internship
+**Duration:** 01/05/2024-01/08/2024
+
+
+
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+
+**Meta logo Introduction to Front-End Development Introduction to Front-End Development **  
+*Meta* | 25/06/2025 | ID: https://www.coursera.org/account/accomplishments/verify/DDEUQ10P2X3U
+
+</div>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+
+### 🔥 Netflix Clone 
+Its a clone website built by using HTML and CSS
+
+
+**Tech Stack:** `·Web Development · Cascading Style Sheets (CSS) · Front-End Development`
+🔗 [View Project](https://github.com/DhruvJohri/Netflix-Clone.git)
+
+</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvJohri&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhruvJohri&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Fun Facts
+
+- The first computer bug was literally a bug — a moth found trapped in a Harvard Mark II computer in 1947. Debugging has been a thing ever since. 🐛💻
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DhruvJohri_)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv Johri)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johridhruv24@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
+  
+  ### ⭐️ From [Dhruv Johri](https://github.com/Dhruv Johri)
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!" alt="Closing message" />
+</div>
