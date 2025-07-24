@@ -32,7 +32,7 @@ education: ["Computer Science", "Continuous Learning"]
 hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
 ```
 
-I am a FullStack Devloper
+
 
 ---
 
