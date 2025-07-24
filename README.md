@@ -99,17 +99,42 @@ I am a FullStack Devloper
 </table>
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
 
-### 🔥 Netflix Clone 
-Its a clone website built by using HTML and CSS
+### 🎬 **Netflix Clone**
+*Because who doesn't love binge-watching shows?*
 
+A pixel-perfect Netflix clone built with pure HTML & CSS. Features responsive design and smooth animations that'll make you think it's the real deal!
 
-**Tech Stack:** `·Web Development · Cascading Style Sheets (CSS) · Front-End Development`
-🔗 [View Project](https://github.com/DhruvJohri/Netflix-Clone.git)
+**Tech Stack:**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**🔗 [Live Demo](https://github.com/DhruvJohri/Netflix-Clone.git) | ⭐ Star it if you like it!**
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 **More Projects Coming Soon...**
+*Currently cooking up some fire projects! 🔥*
+
+Stay tuned for:
+- 📱 **Full-Stack E-commerce App**
+- 🤖 **AI-Powered Chat Application**  
+- 🎮 **Interactive Gaming Platform**
+
+**Status:** Work in Progress 💻
+
+</td>
+</tr>
+</table>
 
 </div>
 ---
