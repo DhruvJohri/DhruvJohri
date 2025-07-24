@@ -10,8 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=DhruvJohri&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/DhruvJohri?style=for-the-badge&color=blueviolet" alt="GitHub followers" />
 </p>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD%22" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvJohri/DhruvJohri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvJohri/DhruvJohri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DhruvJohri/DhruvJohri/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 
