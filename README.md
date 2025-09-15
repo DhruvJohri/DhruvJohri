@@ -140,21 +140,72 @@ A pixel-perfect Netflix clone built with pure HTML & CSS. Features responsive de
 </td>
 <td width="50%" align="center">
 
-### 🚀 **More Projects Coming Soon...**
-*Currently cooking up some fire projects! 🔥*
+### 🔐 **Password Manager**
+*Secure your digital life with ease.*
 
-Stay tuned for:
-- 📱 **Full-Stack E-commerce App**
-- 🤖 **AI-Powered Chat Application**  
-- 🎮 **Interactive Gaming Platform**
+A full-stack **MERN** app for managing passwords with CRUD functionality, copy-to-clipboard, notifications, and a clean responsive UI.
 
-**Status:** Work in Progress 💻
+**Tech Stack:**
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+**🔗 [GitHub Repo](https://github.com/DhruvJohri/Frontend-Password-Manager.git)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🔗 **URL Shortener**
+*Because short is sweet!*
+
+Built with **MERN + JWT Auth**, custom slugs, dashboard, and error handling. Features responsive design and smooth redirection.  
+
+**Tech Stack:**
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+**🔗 [GitHub Repo](https://github.com/DhruvJohri/frontend-url-shortner.git)**
+
+</td>
+<td width="50%" align="center">
+
+### 📄 **PDF Merger**
+*Simplify your documents.*  
+
+A **Node.js + Express** based app to upload and merge PDFs with a smooth UI and efficient file handling.  
+
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🔗 [GitHub Repo](https://github.com/DhruvJohri/PDF-MERGER.git)**
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🌐 **Portfolio Website**
+*Showcasing my journey, projects, and skills.*
+
+A modern, responsive portfolio highlighting my projects, experience, and skills.  
+
+**🔗 [Live Portfolio](https://portfolio2025-teal-chi.vercel.app/)**
 
 </td>
 </tr>
 </table>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
