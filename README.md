@@ -115,7 +115,9 @@ hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
 </td>
 </tr>
 </table>
+
 ---
+
 
 
 ## 🚀 Featured Projects
