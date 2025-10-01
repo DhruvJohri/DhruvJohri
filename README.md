@@ -232,7 +232,10 @@ A modern, responsive portfolio highlighting my projects, experience, and skills.
 </div>
 
 ---
+## 🌟HACKTOBERFEST
 
+[![An image of @dhruvjohri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvjohri)](https://holopin.io/@dhruvjohri)
+---
 ## 🎯 Fun Facts
 
 - The first computer bug was literally a bug — a moth found trapped in a Harvard Mark II computer in 1947. Debugging has been a thing ever since. 🐛💻
