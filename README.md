@@ -138,7 +138,7 @@ hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
 ### 🧑‍💻 **SDE Intern @ Crucial Bits**  
 ![Role](https://img.shields.io/badge/Role-Backend%20Developer-8A2BE2?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20MongoDB-DA70D6?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-9370DB?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-1%20Month-DA70D6?style=for-the-badge)
 
 📅 **Duration:** **`01/07/2025 – 01/08/2025`**  
 🚀 Working on backend development using **Node.js** and **MongoDB**, focusing on scalable cloud deployment and performance optimization.
@@ -326,7 +326,10 @@ A modern, responsive portfolio highlighting my projects, experience, and skills.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
+ 
+![Purple Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=120&section=footer)
+
+
   
   ### ⭐️ From [Dhruv Johri](https://github.com/DhruvJohri)
   
