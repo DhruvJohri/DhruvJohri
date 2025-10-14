@@ -56,6 +56,50 @@ hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Tech Stack & Tools
+
+<div align="center">
+
+### 🔥 Core Languages
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs,html,css,bootstrap,tailwind,figma" width="300"/>
+</p>
+
+### ⚡ Backend & Database
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,redis" width="350"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,digitalocean,linux" width="200"/>
+</p>
+
+### 🧠 AI/ML & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" width="150"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,jupyter" width="200"/>
+</p>
+
+</div>
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
