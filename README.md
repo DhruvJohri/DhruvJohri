@@ -16,7 +16,7 @@
 </div>
 
 
-
+<div align="center">
 # 🌟 Dhruv Johri 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=SDE%20Intern;Welcome+to+my+GitHub!" alt="Typing SVG" />
