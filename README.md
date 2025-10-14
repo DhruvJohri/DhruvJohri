@@ -98,20 +98,9 @@ hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
 </p>
 
 </div>
----
 
-## 🛠️ Tech Stack & Skills
 
 <div align="center">
-
-### 💻 Programming Languages
-
-#### Expert
-![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-blueviolet?style=for-the-badge&logo=mongodb&logoColor=white) ![ExpressJs](https://img.shields.io/badge/-ExpressJs-blueviolet?style=for-the-badge&logo=expressjs&logoColor=white) ![ReactJs](https://img.shields.io/badge/-ReactJs-blueviolet?style=for-the-badge&logo=reactjs&logoColor=white) ![NodeJs](https://img.shields.io/badge/-NodeJs-blueviolet?style=for-the-badge&logo=nodejs&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blueviolet?style=for-the-badge&logo=c++&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white) 
-#### Intermediate
-![Java](https://img.shields.io/badge/-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white) ![Cloud](https://img.shields.io/badge/-Cloud-blueviolet?style=for-the-badge&logo=cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blueviolet?style=for-the-badge&logo=aws&logoColor=white) ![DevOps](https://img.shields.io/badge/-DevOps-blueviolet?style=for-the-badge&logo=devops&logoColor=white) 
-#### Advanced
-![AI/ML](https://img.shields.io/badge/-AI/ML-blueviolet?style=for-the-badge&logo=ai/ml&logoColor=white) 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
