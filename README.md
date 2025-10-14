@@ -1,37 +1,20 @@
-<div align="center" style="background-color:#0f001a; padding:0; margin:0;">
+<div align="center">
 
-  <!-- Animated Fancy Purple Header -->
+  <!-- Fancy Animated Purple Header -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=220&section=header&text=Hello%20World!&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&font=Pacifico" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=230&section=header&text=Hello%20World!&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff&font=Pacifico"
     width="100%"
-    style="animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite;"
   />
 
-  <style>
-    @keyframes float {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
-    }
-
-    @keyframes glow {
-      0%, 100% { filter: drop-shadow(0 0 10px #b266ff) drop-shadow(0 0 20px #a020f0); }
-      50% { filter: drop-shadow(0 0 25px #da70d6) drop-shadow(0 0 45px #8a2be2); }
-    }
-
-    @keyframes sparkle {
-      0%, 100% { opacity: 0.8; }
-      50% { opacity: 1; }
-    }
-  </style>
-
-  <!-- Optional subtle sparkles overlay -->
+  <!-- Sparkle Effect GIF Overlay (GitHub-safe visual trick) -->
   <img 
     src="https://i.ibb.co/SJpWcxJ/sparkle-overlay.gif" 
     width="100%" 
-    style="position:absolute; top:0; left:0; pointer-events:none; opacity:0.4; mix-blend-mode:screen; animation: sparkle 4s ease-in-out infinite;"
+    alt="sparkle effect"
   />
 
 </div>
+
 
 
 # 🌟 Dhruv Johri 🌟
