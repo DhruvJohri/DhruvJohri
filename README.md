@@ -127,6 +127,36 @@ hobbies: ["Coding", "Learning", "Problem Solving", "Innovation"]
 </div>
 
 ---
+## 💼 Professional Journey
+
+<div align="center">
+
+![Purple Divider](https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=4&section=header&animation=fadeIn)
+
+</div>
+
+### 🧑‍💻 SDE Intern @ Crucial Bits
+📅 **Duration:** `01/07/2025 – Present`  
+🚀 Working on backend development using **Node.js** and **MongoDB**, focusing on scalable cloud deployment and performance optimization.
+
+---
+
+### 🌐 Contributor @ Hacktoberfest · Internship
+📅 **Duration:** `01/10/2024 – 01/11/2024`  
+🏆 Contributed to open-source projects, created and merged PRs, and earned all **Hacktoberfest badges (Level 1–4)** by completing four successful contributions.
+
+---
+
+### 👩‍💻 Contributor @ GirlScript Summer of Code · Internship
+📅 **Duration:** `01/05/2024 – 01/08/2024`  
+💡 Collaborated with maintainers on open-source projects, improved frontend UI components, and strengthened team-based version control skills.
+
+<div align="center">
+
+![Purple Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=120&section=footer)
+
+</div>
+
 
 ## 💼 Professional Journey
 
