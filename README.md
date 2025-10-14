@@ -17,6 +17,10 @@
 
 
 <div align="center">
+
+
+
+
 # 🌟 Dhruv Johri 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=SDE%20Intern;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -31,8 +35,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
 </div>
-</div>
-
 
 <!-- Snake Animation -->
 
