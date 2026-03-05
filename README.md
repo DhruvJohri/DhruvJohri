@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9D4EDD,100:DA70D6&height=280&section=header&text=Dhruv%20Johri&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20%7C%20&descAlignY=62&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9D4EDD,100:DA70D6&height=280&section=header&text=Dhruv%20Johri&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20%7C%20Top%200.1%25%20Coder&descAlignY=62&descSize=20" width="100%" />
 
 </div>
 
@@ -10,13 +10,13 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-johri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-%239D4EDD.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2025-teal-chi.vercel.app/)
 [![Email](https://img.shields.io/badge/Hire%20Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johridhruv24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvJohri)
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhruvJohri_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DhruvJohri)
-[![HackerRank](https://img.shields.io/badge/HackerRank%205%E2%AD%90-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DhruvJohri)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)]()
+[![HackerRank](https://img.shields.io/badge/HackerRank%205%E2%AD%90-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)]()
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks%203%E2%AD%90-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/DhruvJohri)
 
 <br/>
@@ -41,19 +41,15 @@
 
 ---
 
-## 🧑‍💻 `$ cat whoami.yaml`
+## 🧑‍💻 `$ whoami.yaml`
 
 ```yaml
 name        : "Dhruv Johri"
 role        : "Full-Stack Developer  |  Final Year CS Undergrad"
-location    : "Bareilly, UP, India 📍"
-email       : "johridhruv24@gmail.com"
-phone       : "+91 8533966898"
 education   : "B.Tech CSE @ SRMS CET  |  CGPA: 7.5  |  Graduating June 2026"
 focus       : ["MERN Stack", "REST APIs", "Cloud Deployment", "Open Source"]
 status      : "🔥 Actively seeking SDE / Full-Stack Developer roles"
 superpower  : "Top 0.1% globally — TCS CodeVita S13 🏆 (5,00,000+ participants)"
-currently   : "Project Admin @ GSSoC 2025 👑"
 hobbies     : ["Coding", "Chess", "Problem Solving", "Building cool stuff"]
 os          : "I use Linux btw 🐧"
 ```
@@ -200,7 +196,7 @@ os          : "I use Linux btw 🐧"
 - ⚡ Optimized Redux state + real-time search
 - 🌐 Deployed: **Vercel + Render + MongoDB Atlas**
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-100000?style=for-the-badge&logo=github)](https://github.com/DhruvJohri/Netflix-Clone.git)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-100000?style=for-the-badge&logo=github)](https://github.com/DhruvJohri/Netflix--MERN-Stack.git)
 
 </td>
 <td width="50%" valign="top">
@@ -278,9 +274,17 @@ os          : "I use Linux btw 🐧"
 
 <img src="https://github-readme-stats.vercel.app/api?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=DA70D6&currStreakLabel=9D4EDD" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvJohri&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvJohri&theme=radical" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -289,7 +293,9 @@ os          : "I use Linux btw 🐧"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhruvJohri&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhruvJohri&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -311,13 +317,13 @@ os          : "I use Linux btw 🐧"
 | 🏅 | Certification | 🏢 Issuer | 🔗 |
 |:---:|---|---|:---:|
 | 🟣 | Introduction to Front-End Development | **Meta** via Coursera | [![Verify](https://img.shields.io/badge/Verify-Credential-9D4EDD?style=flat-square)](https://www.coursera.org/account/accomplishments/verify/DDEUQ10P2X3U) |
-| 🔵 | Programming in Java | **IIT Kharagpur** (NPTEL) | — |
-| 🟤 | Getting Started with Artificial Intelligence | **IBM** | — |
-| 🔴 | Introduction to Generative AI | **Google Cloud** | — |
-| 🟡 | Google AI Essentials | **Google** | — |
-| 🟠 | Postman API Fundamentals Student Expert | **Postman** | — |
-| 🟢 | Python (Basic) | **HackerRank** | — |
-| 🔷 | Technology Job Simulation | **Deloitte Australia** | — |
+| 🟢 | Python (Basic) | **HackerRank** | [![Verify](https://img.shields.io/badge/Verify-Credential-2EC866?style=flat-square)](https://www.hackerrank.com/profile/johridhruv24) |
+| 🟠 | Postman API Fundamentals Student Expert | **Postman** | [![Verify](https://img.shields.io/badge/Verify-Credential-FF6C37?style=flat-square)](https://badgr.com/public/assertions/) |
+| 🟤 | Getting Started with Artificial Intelligence | **IBM** | [![Verify](https://img.shields.io/badge/Verify-Credential-052FAD?style=flat-square)](https://www.credly.com/users/dhruv-johri) |
+| 🔴 | Introduction to Generative AI | **Google Cloud** | [![Verify](https://img.shields.io/badge/Verify-Credential-4285F4?style=flat-square)](https://www.cloudskillsboost.google/public_profiles/dhruv-johri) |
+| 🟡 | Google AI Essentials | **Google** | [![Verify](https://img.shields.io/badge/Verify-Credential-FBBC04?style=flat-square&logoColor=black)](https://www.credly.com/users/dhruv-johri) |
+| 🔵 | Programming in Java | **IIT Kharagpur** (NPTEL) | [![Verify](https://img.shields.io/badge/Verify-Credential-0077B5?style=flat-square)](https://nptel.ac.in/noc/Ecertificate/) |
+| 🔷 | Technology Job Simulation | **Deloitte Australia** | [![Verify](https://img.shields.io/badge/Verify-Credential-86BC25?style=flat-square)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/) |
 
 </div>
 
@@ -344,7 +350,6 @@ os          : "I use Linux btw 🐧"
 <div align="center">
 
 > 💼 **Final-Year CS Undergrad graduating June 2026 — Open to SDE / Full-Stack roles**
-> 📬 **johridhruv24@gmail.com** · 📞 **+91 8533966898**
 
 <br/>
 
