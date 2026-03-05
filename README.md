@@ -333,13 +333,58 @@ os          : "I use Linux btw 🐧"
 
 <div align="center">
 
-> 🐛 The first computer bug was literally a bug — a moth trapped in a Harvard Mark II in 1947. Debugging has been our collective nightmare ever since.
+<table>
+<tr>
+<td align="center" width="25%">
 
-> ☕ I firmly believe `coffee++` is valid syntax and should be in every programming language spec.
+🐛
 
-> ♟️ **Chess** player IRL — 2nd Prize @ AMOD Annual Sports Fest. Strategy on and off the keyboard.
+**Bug Origin Story**
 
-> 🌍 Open source believer — the best code is the code we build *together*.
+The first computer bug was literally a moth — trapped in Harvard Mark II in 1947. Debugging has been our collective nightmare ever since.
+
+![Debugging](https://img.shields.io/badge/Status-Still_Debugging-9D4EDD?style=flat-square)
+
+</td>
+<td align="center" width="25%">
+
+☕
+
+**Coffee Driven Dev**
+
+I firmly believe `coffee++` is valid syntax and should be in every programming language spec. No coffee = no commits.
+
+![Coffee](https://img.shields.io/badge/Powered_By-Coffee%2B%2B-DA70D6?style=flat-square)
+
+</td>
+<td align="center" width="25%">
+
+♟️
+
+**Chess IRL**
+
+2nd Prize @ AMOD Annual Sports Fest. Strategy isn't just for algorithms — it's a lifestyle on and off the keyboard.
+
+![Chess](https://img.shields.io/badge/Rank-2nd_Place_AMOD-8A2BE2?style=flat-square)
+
+</td>
+<td align="center" width="25%">
+
+🌍
+
+**Open Source Soul**
+
+Contributed to GSSoC & Hacktoberfest. Because the best code is the code we build *together*, not alone.
+
+![OSS](https://img.shields.io/badge/Believer-Open_Source-BA55D3?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -353,7 +398,6 @@ os          : "I use Linux btw 🐧"
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-johri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2025-teal-chi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johridhruv24@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhruvJohri_)
