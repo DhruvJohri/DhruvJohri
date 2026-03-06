@@ -272,29 +272,28 @@ os          : "I use Linux btw 🐧"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=DhruvJohri&theme=radical&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=DA70D6&currStreakLabel=9D4EDD" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=DhruvJohri&theme=radical&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJohri&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJohri&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvJohri&theme=radical" alt="GitHub Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvJohri&theme=radical" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DhruvJohri&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=DhruvJohri&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=6&cache_seconds=86400" />
 
 </div>
 
